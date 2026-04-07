@@ -1,0 +1,31 @@
+.container{
+    margin-top: 100px;
+    background-color: rgb(221, 87, 87);
+    border-radius: 50px;
+}
+.card{
+    margin: 50px auto;
+    background-color: #d5b782;
+    border: 1px solid #0e243a;
+    border-radius: 0.375rem;
+    padding: 1.25rem;
+    margin-bottom: 1.25rem;
+}
+.descricao{
+    background-color: #0e243a;
+    border: 1px solid #0e243a;
+    border-radius: 10px;
+}
+.habilidades{
+    background-color: #82d5cd;
+    border: 1px solid #0e243a;
+    border-radius: 10px;
+}
+.caracteristicas{
+
+}
+img{
+    width: 100%;
+    height: auto;
+    border-radius: 0.375rem;
+}
